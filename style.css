@@ -1,0 +1,12 @@
+body {font-family: Arial, sans-serif;margin: 0;padding: 0;background: #fdfdfd;color: #333;text-align: center;}
+.navbar {margin: 15px 0;}
+.navbar a {margin: 0 10px;text-decoration: none;color: #007BFF;}
+.hero {background: #007BFF;color: white;padding: 30px 15px;}
+.profile-img {width: 150px;height: 150px;border-radius: 100%;object-fit: cover;border: 3px solid white;}
+section {padding: 30px 20px;}
+.project {margin: 20px auto;}
+.logo-img {width: 100px;margin-bottom: 10px;}
+.btn {display: inline-block;margin-top: 10px;padding: 10px 20px;background: white;color: #007BFF;text-decoration: none;border-radius: 5px;}
+form {max-width: 400px;margin: auto;display: flex;flex-direction: column;gap: 10px;}
+input, textarea {padding: 10px;border: 1px solid #ccc;border-radius: 4px;}
+button {padding: 10px;background-color: #007BFF;color: white;border: none;border-radius: 4px;}
